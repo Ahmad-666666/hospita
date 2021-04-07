@@ -1,0 +1,20 @@
+h2{
+	color: darkblue;
+}
+p{
+	font-size: 20px;
+}
+h3{
+	color: darkblue;
+	padding-left: 25%;
+	height: 40px;
+	background-color: red;
+	font-size: 22px;
+	border-radius: 50px;
+}
+.photo{
+	padding-left: 25%;
+	border-radius: 75px;
+	width: 600px;
+
+}

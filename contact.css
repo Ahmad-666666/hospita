@@ -1,0 +1,55 @@
+
+table{
+	float: right;
+	background-color:grey;
+}
+h1{
+
+	padding-top: 10PX;
+	padding-left:  30%;
+	color: darkblue;
+
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+
+ul{
+	float: left;
+
+}
+li{
+	display: inline-block;
+	padding-left: 25px;
+}
+
+
+.he{
+	font-size: 20px;
+
+}
+.feature{
+	color: darkblue;
+	font-size: 18px;
+
+}
+.iron{
+	color: red;
+
+}
+.nightster{
+	color: darkblue;
+	font-size: 18px;
+
+}
+.fortyeight{
+	color: red;
+}
+.stable{
+	float: left;
+	width: 1550px;
+}

@@ -1,0 +1,39 @@
+body{
+	background-image: url();
+}
+table{
+	float: right;
+
+}
+h1{
+
+	padding-top: 10PX;
+	float: right;
+	color: darkblue;
+
+
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+
+ul{
+	float: left;
+
+}
+li{
+	display: inline-block;
+	padding-left: 25px;
+}
+.image{
+	width: 330px;
+}
+.tap{
+	padding-top: 25%;
+	border-radius: 50%;
+
+}

@@ -1,0 +1,60 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.all{
+	display: inline-block;
+	width: 100%;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+
+ul{
+	float: left;
+	border :solid ;
+	border-color: darkblue;
+	background-size: cover;
+	background-color: darkblue;
+	padding-right: 20%;
+	border-radius: 50px;
+}
+li{
+	display: inline-block;
+	
+}
+.photo{
+	border-radius: 500px;
+	width: 800px;
+	height: 300px; 
+}
+.photo2{
+	float: right;
+	border-radius: 100px;
+}
+.para {
+
+	width: 800PX;
+	font-size: 20px;
+
+}
+.foter{
+	width: all;
+	border :solid ;
+	border-color: darkblue;
+	background-color: darkblue;
+	color: white;
+	font-size: 24px;
+}
+@media screen and (max-width: 400pm){
+	.all{
+		display: block;
+		width: 100px;
+	}
+}

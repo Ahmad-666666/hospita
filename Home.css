@@ -1,0 +1,106 @@
+body{
+	
+}
+table{
+	float: right;
+	background-color:grey;
+}
+h1{
+
+	
+	padding-left: 10px;
+	color: darkblue;
+	
+
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+
+ul{
+	float: left;
+
+}
+li{
+	display: inline-block;
+	padding-left: 25px;
+}
+
+.image{
+	float: right;
+	box-sizing: border-box;
+
+
+	
+}
+.list{
+	right: : 50%;
+	top: 15%;
+	
+	width: 400px;
+	padding-left: 300px;  
+
+}
+h2{
+	width: 300px;
+	padding: 10px ;
+	float: left ;
+	color: darkgreen;
+	
+}
+h4{
+	width: 300px;
+	box-sizing: border-box;
+}
+.hot{
+	width: 300px;
+	position: absolute;
+
+	border-radius: 50px;
+}
+
+.e{
+	width: 300px;
+	
+	position: absolute;
+	border-radius: 50px;
+	padding-left:20px;
+}
+
+.hn{
+	
+	top: 50%;
+	
+	width: 400px;
+	padding-left:700px; 
+
+}
+.foter{
+	background-image: url(patent.jpg);
+}
+h3{
+	width: 300px;
+}
+.les:ul{
+	padding-top: 20%;
+	
+	background-image: url(hear.jpg);
+	background-size: cover;
+	padding-left:700px;
+
+}
+.hea{
+	top: 100%;
+	
+	width: 400px;
+	padding-left:300px;
+}
+.hear{
+	width: 300px;
+	border-radius: 50px;
+	
+}
